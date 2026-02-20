@@ -1,0 +1,5 @@
+test_0001_aligned.jpg 4
+test_0002_aligned.jpg 0
+test_0003_aligned.jpg 3
+test_0004_aligned.jpg 0
+test_0005_aligned.jpg 4

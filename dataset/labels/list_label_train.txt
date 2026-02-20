@@ -1,0 +1,5 @@
+train_00001_aligned.jpg 4
+train_00002_aligned.jpg 4
+train_00003_aligned.jpg 3
+train_00004_aligned.jpg 3
+train_00005_aligned.jpg 4
