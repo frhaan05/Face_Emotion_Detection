@@ -1,0 +1,8 @@
+numpy
+tqdm
+opencv_python
+facenet_pytorch
+matplotlib
+torchvision==0.8.2+cu101
+torch==1.7.1+cu101
+Pillow
